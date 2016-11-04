@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="rmk1478229508266" xml:lang="en-us">
+   <title>HawkVision frequently-asked questions</title>
+   <keydef keys="hawkvision-product" processing-role="resource-only">
+      <topicmeta>
+         <keywords>
+            <keyword>HawkVision Modeler</keyword>
+         </keywords>
+      </topicmeta>
+   </keydef>
+   <topicref href="qmf1478229504345.dita">
+      <topicref href="kom1478229506342.dita"/>
+      <topicref href="mzu1478229506700.dita"/>
+      <topicref href="bwn1478229507060.dita"/>
+      <topicref href="zae1478229507438.dita"/>
+      <topicref href="jbf1478229507791.dita"/>
+   </topicref>
+</map>

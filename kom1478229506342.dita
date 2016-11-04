@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="kom1478229506342" xml:lang="en-us"
+         class="- topic/topic concept/concept faq/faq ">
+   <title class="- topic/title  faq/question ">How do I change the size of the node icons?</title>
+   <conbody class="- topic/body concept/conbody faq/answer ">
+      <p>To decrease the node size, press <uicontrol>Ctrl+[</uicontrol>.</p>
+      <p>To increase the node size, press <uicontrol>Ctrl+]</uicontrol>.</p>
+   </conbody>
+</concept>

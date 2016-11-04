@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="djr1478227577834" xml:lang="en-us">
+   <title>About <term conkeyref="r_productname_variables/ph_enduser"/>
+   </title>
+   <shortdesc>
+     An overview of <term conkeyref="r_productname_variables/ph_enduser"/>, the system operator application for <term conkeyref="r_productname_variables/ph_prodname"/>.
+   </shortdesc>
+   <prolog>
+      <metadata>
+         <prodinfo>
+            <prodname>
+               <term conkeyref="r_productname_variables/ph_enduser"/>
+            </prodname>
+            <vrmlist>
+               <vrm modification="b" release="GA" version="1.1"/>
+            </vrmlist>
+         </prodinfo>
+      </metadata>
+      <metadata>
+         <keywords>
+            <indexterm>
+               <term conkeyref="r_productname_variables/ph_enduser"/>
+               <indexterm>general introduction</indexterm>
+            </indexterm>
+         </keywords>
+      </metadata>
+   </prolog>
+   <conbody>
+      <p>
+         <term conkeyref="r_productname_variables/ph_enduser"/> provides a single,
+         mobile interface for monitoring and managing cluster activity within <term conkeyref="r_productname_variables/ph_prodname"/>. </p>
+      <p>From the <term conkeyref="r_productname_variables/ph_enduser"/> dashboard you
+         can oversee cluster operations, monitor system performance, and diagnose problems with
+         cluster activity. You can also create custom views that present metrics specific to your
+         project.</p>
+   </conbody>
+</concept>

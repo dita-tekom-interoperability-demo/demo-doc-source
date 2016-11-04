@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="jbf1478229507791" xml:lang="en-us"
+         class="- topic/topic concept/concept faq/faq ">
+   <title class="- topic/title  faq/question ">How do I make the visualization less distracting?</title>
+   <conbody class="- topic/body concept/conbody faq/answer ">
+      <p>There are squiggly lines all over the model. It is distracting.</p>
+      <p>You can either turn off visualization or specify only the visualization properties that you
+   want to use.</p>
+      <p>To turn off the visualization, click <menucascade>
+            <uicontrol>View</uicontrol>
+            <uicontrol>Hide All Visualization</uicontrol>
+         </menucascade>.</p>
+      <p>To specify visualization, use the Property Visualization view.</p>
+   </conbody>
+</concept>

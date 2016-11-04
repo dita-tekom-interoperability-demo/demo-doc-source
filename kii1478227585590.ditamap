@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="kii1478227585590" xml:lang="en-us">
+   <title>User Guide</title>
+   <topicgroup processing-role="resource-only" props="STA">
+      <keydef format="dita" href="elv1478227529246.dita" keys="r_productname_variables"
+              type="topic"
+              processing-role="resource-only"/>
+      <keydef format="dita" href="zmy1478227542261.dita" keys="r_image_warehouse"
+              type="topic"
+              processing-role="resource-only"/>
+   </topicgroup>
+   <topicgroup processing-role="resource-only" props="STB">
+      <keydef format="dita" href="xns1478227542714.dita" keys="r_productname_variables"
+              type="topic"
+              processing-role="resource-only"/>
+      <keydef format="dita" href="par1478227553229.dita" keys="r_image_warehouse"
+              type="topic"
+              processing-role="resource-only"/>
+   </topicgroup>
+   <topichead navtitle="Introduction">
+      <topicref href="djr1478227577834.dita">
+         <topicref href="chc1478227578498.dita"/>
+         <topicref href="gml1478227579082.dita"/>
+      </topicref>
+   </topichead>
+   <topichead navtitle="Getting Started">
+      <topicref href="yao1478227557270.dita"/>
+      <topicref href="xno1478227581870.dita"/>
+      <topicref href="bvf1478227579535.dita"/>
+      <topicref href="zyo1478227579907.dita"/>
+      <topicref href="cpa1478227580613.dita"/>
+      <topicref href="clm1478227583985.dita"/>
+   </topichead>
+   <topichead navtitle="Common Tasks">
+      <topicref href="cxx1478227581451.dita"/>
+      <topicref href="roz1478227581080.dita">
+         <topicref href="dzw1478227560560.dita"/>
+         <topicref href="wyf1478227582349.dita"/>
+         <topicref href="yjh1478227576652.dita"/>
+      </topicref>
+      <topicref href="vyv1478227582703.dita"/>
+      <topicref href="yld1478227583010.dita"/>
+      <topicref href="ruj1478227583342.dita"/>
+      <topicref href="rkv1478227583667.dita"/>
+      <topicref href="cqp1478227580390.dita"/>
+   </topichead>
+   <mapref format="ditamap" href="rmk1478229508266.ditamap"/>
+   <reltable title="Reltable" toc="no">
+      <relheader>
+         <relcolspec type="topic" toc="no"/>
+         <relcolspec type="topic" toc="no"/>
+      </relheader>
+      <relrow>
+         <relcell toc="no">
+            <topicref href="dzw1478227560560.dita"/>
+         </relcell>
+         <relcell toc="no">
+            <topicref href="vyv1478227582703.dita"/>
+         </relcell>
+      </relrow>
+      <relrow>
+         <relcell toc="no">
+            <topicref href="dzw1478227560560.dita"/>
+         </relcell>
+         <relcell toc="no">
+            <topicref href="rkv1478227583667.dita"/>
+         </relcell>
+      </relrow>
+      <relrow>
+         <relcell toc="no">
+            <topicref href="wyf1478227582349.dita"/>
+         </relcell>
+         <relcell toc="no">
+            <topicref href="yld1478227583010.dita"/>
+         </relcell>
+      </relrow>
+   </reltable>
+</map>

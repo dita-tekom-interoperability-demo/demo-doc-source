@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>NetCo Field Service Manual</mainbooktitle>
+    </booktitle>
+  <bookmeta>
+    <prodinfo>
+      <prodname>NetCo Field Services</prodname>
+      <vrmlist>
+        <vrm version="2" release="4"/>
+      </vrmlist>
+    </prodinfo>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc/>
+    </booklists>
+  </frontmatter>
+  <chapter keys="netco-field-services" href="topics/netco-field-services.dita">
+    
+  </chapter>
+  <part href="parts/thunderbird-part.dita" keys="part-thunderbird">
+    <mapref href="../../Thunderbird_Basic/User_Guide.ditamap"/>
+  </part>
+  
+  <backmatter>
+    <booklists>
+      <indexlist/>
+    </booklists>
+  </backmatter>
+</bookmap>

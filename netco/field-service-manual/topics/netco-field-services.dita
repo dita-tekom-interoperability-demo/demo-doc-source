@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bk5_45c_wx">
+ <title>NetCo Field Services</title>
+ <shortdesc>NetCo Field Services provide premier support for your networking hardware in the
+    field.</shortdesc>
+ <conbody>
+  <p>As a NetCo Field Service Technician you are part of the best network support organization in
+      the world. Our clients depend on us around the clock to keep their critical networking
+      infrastructure running perfectly.</p>
+    <p>This manual provides all the information you need to service and maintain networking products
+      from NetCo's suppliers, including the <term conkeyref="r_productname_variables/ph_prodname"/>
+      system (<xref keyref="part-thunderbird"/>).</p>
+ </conbody>
+</concept>

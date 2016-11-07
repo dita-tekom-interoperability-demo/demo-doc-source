@@ -6,7 +6,8 @@
     <keydef keys="r_productname_variables" href="r_productname_variables.dita" type="topic"
       format="dita"/>    
     <keydef keys="r_image_warehouse" href="r_image_warehouse.dita" type="topic"
-      format="dita"/>   
+      format="dita"/>
+    <keydef href="Images/Thunderbird.png" keys="image-thunderbird-logo" format="image"/>   
   </topicgroup>
   <topicgroup props="STB" processing-role="resource-only">
     <keydef keys="r_productname_variables" href="r_productname_variables_2.dita" type="topic"

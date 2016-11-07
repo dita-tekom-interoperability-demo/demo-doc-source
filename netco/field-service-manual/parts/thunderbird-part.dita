@@ -4,5 +4,8 @@
   <title>Thunderbird Documentation</title>
   <body>
     <p>This part contains the documentation for Thunderbird products.</p>
+    <p><image keyref="image-thunderbird-logo" id="image_fhc_11k_wx">
+        <alt>Thunderbird logo</alt>
+      </image></p>
   </body>
 </topic>

@@ -1,0 +1,23 @@
+/* CSS for FAQ topics */
+
+h1.question:before {
+  display: inline;
+  content: "Q. ";
+  font-size: 24pt;
+  color: blue;  
+}
+
+div.answer:before {
+  
+  content: "A. ";
+  display: block;
+  font-size: 24pt;
+  color: blue;
+  text-indent: -24pt;
+  font-weight: bold;
+  
+}
+
+div.answer  {
+  margin-left: 24pt;
+}

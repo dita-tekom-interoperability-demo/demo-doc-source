@@ -10,6 +10,24 @@
       infrastructure running perfectly.</p>
     <p>This manual provides all the information you need to service and maintain networking products
       from NetCo's suppliers, including the <term conkeyref="r_productname_variables/ph_prodname"/>
-      and HawkVision systems (<xref keyref="part-thunderbird"/>).</p>
+      and HawkVision systems (<xref keyref="part-thunderbird"/>). </p>
+    <p>You can find frequently asked questions here:<table frame="all" rowsep="1" colsep="1"
+        id="table_ijy_wnj_wx">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+          <colspec colname="c2" colnum="2" colwidth="1.0*"/>
+          <tbody>
+            <row>
+              <entry><ph keyref="hawkvision-product"/>
+              </entry>
+              <entry><xref keyref="faq-hawkvision-modeler"/></entry>
+            </row>
+            <row>
+              <entry><term conkeyref="r_productname_variables/ph_enduser"/></entry>
+              <entry><xref keyref="faq-mobileview"/></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></p>
  </conbody>
 </concept>

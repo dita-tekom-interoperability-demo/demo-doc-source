@@ -26,7 +26,7 @@
         <topicref href="c_mv_workspace_tab.dita"/>
         <topicref href="c_mv_performance_tab.dita"/>
         <topicref href="c_mv_diagnostics_tab.dita"/>
-        <topicref href="FAQ.dita"/>
+        <topicref href="FAQ.dita" keys="faq-mobileview"/>
     </topichead>
     <topichead navtitle="Common Tasks">
         <topicref href="c_mv_managing_messages.dita"/>

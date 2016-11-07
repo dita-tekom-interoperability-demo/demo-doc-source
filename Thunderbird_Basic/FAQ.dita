@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 
   <topic id="mobileview_FAQ"> 
-	 <title>Frequently Asked Questions</title> 
+	 <title><term conkeyref="r_productname_variables/ph_enduser"/> Frequently Asked Questions</title> 
   	<shortdesc>Answers to your frequently asked questions about <term conkeyref="r_productname_variables/ph_enduser"/>. 
 	 </shortdesc> 
 	 <body> 
